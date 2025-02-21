@@ -1,0 +1,18 @@
+html{
+    background-color: #E8BCB9;
+}
+img{
+    border: 6px #9c7270;
+}
+.H{
+    color: #E8BCB9 ;
+    background-color: #4B4376;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-weight: 600;
+    font-style: bold;
+}
+footer{
+    background-color: #AE445A ;
+    text-align: center;
+}
